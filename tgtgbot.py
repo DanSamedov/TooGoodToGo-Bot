@@ -12,7 +12,6 @@ logging.getLogger("httpx").setLevel(logging.WARNING)
 
 logger = logging.getLogger(__name__)
 
-
 reply_keyboard = [
     ["Subscription"]
 ]
