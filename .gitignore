@@ -1,0 +1,8 @@
+.env
+userslist_tgtg.txt
+src
+*.pyc
+*.pyo
+.env
+.venv/
+.DS_Store
